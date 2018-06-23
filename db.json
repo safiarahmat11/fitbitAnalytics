@@ -10,5 +10,11 @@
                "timestamp": 522.27713514,
                "val":100,
                "user":"Aaron"
+           },
+            {
+               "label": "hr-rate",
+               "timestamp": 522.27713514,
+               "val":62,
+               "user":"hamza"
            }
 ]
